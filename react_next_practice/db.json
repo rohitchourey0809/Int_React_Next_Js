@@ -1,0 +1,31 @@
+{
+  "getotp": [
+    {
+      "mobile_no": "8798787878",
+      "id": 1
+    },
+    {
+      "mobile_no": "9074052483",
+      "id": 2
+    }
+  ],
+  "validate-otp": [
+    {
+      "mobile_no": "9074052483",
+      "otp": "1111",
+      "id": 1
+    }
+  ],
+  "call-lead-service": [
+    {
+      "first_name": "rohit ",
+      "last_name": "chourey",
+      "mobile_number": "9074052483",
+      "email": "rohit@gmail.com",
+      "whatsappMessage": true,
+      "product_name": "Health Insurance",
+      "source_page": "Core Page Lead",
+      "id": 1
+    }
+  ]
+}
